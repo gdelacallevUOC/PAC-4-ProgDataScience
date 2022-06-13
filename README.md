@@ -13,6 +13,8 @@ les funcions corresponents a un exercici determinat i el main que s'executarà e
 A la carpeta media, podem trobar el PDF amb algunes explicacions d'alguns apartats, a més
 de les imatges que genera el main.py quan s'executa on s'imprimeixen gràfiques.
 
+Es pot veure al github: https://github.com/gdelacallevUOC/PAC-4-ProgDataScience
+
 ## Utilitzant el programa
 
 Executant el programa main.py ens imprimeix tots els resultats que es demanen per pantalla
