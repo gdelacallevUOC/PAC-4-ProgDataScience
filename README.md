@@ -21,7 +21,7 @@ sense necessitat de fer res més.
 ## Passos per executar main.py
 
 1. `git clone https://github.com/gdelacallevUOC/PAC-4-ProgDataScience.git`
-2. `cd ./PAC-4-ProgDataScience`
+2. `cd ./PAC-4-ProgDataScience.main`
 3. `pip install -r requirements.txt`
 4. `python3 ./main.py`
 
